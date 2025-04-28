@@ -1,0 +1,51 @@
+Filiale;Nom;Poste;Salaire;Info
+TechCorp;Helen;Chef de projet;9500.0;7
+TechCorp;Quincy;Testeur;5824.0;8
+TechCorp;Fred;Manager;7260;-7
+TechCorp;Steve;Chef de projet;6400;-8
+TechCorp;Linda;Chef de projet;6800;-1
+TechCorp;Bob;Analyste;5600;-5
+TechCorp;Steve;Chef de projet;11300.0;13
+TechCorp;Karen;Développeur;4620;-7
+TechCorp;Paul;Designer;3600;-5
+TechCorp;Bob;Développeur;7630.0;13
+TechCorp;Bob;Manager;11000.0;10
+TechCorp;Mike;Testeur;3696;-7
+TechCorp;Mike;Chef de projet;8900.0;3
+TechCorp;Charlie;Chef de projet;6400;-5
+TechCorp;Helen;Testeur;6104.0;13
+DesignWorks;Jack;Analyste;6080;-2
+DesignWorks;Emma;Designer;4080;-6
+DesignWorks;Ian;Chef de projet;7600.0;2
+DesignWorks;Tina;Testeur;6104.0;13
+DesignWorks;Oliver;Chef de projet;10700.0;9
+DesignWorks;Jack;Designer;3960;-2
+DesignWorks;Oliver;Manager;10450.0;5
+DesignWorks;Rachel;Testeur;4256.0;2
+DesignWorks;Ian;Testeur;5152.0;6
+DesignWorks;Jack;Chef de projet;7600.0;2
+DesignWorks;Rachel;Analyste;5120;-3
+DesignWorks;Helen;Développeur;5320.0;2
+DesignWorks;George;Développeur;4200;-10
+DesignWorks;Rachel;Testeur;6104.0;13
+DesignWorks;Emma;Chef de projet;9500.0;7
+DesignWorks;Mike;Manager;7040;-8
+DesignWorks;Ian;Chef de projet;8200.0;4
+DesignWorks;Bob;Chef de projet;10000.0;10
+ProjectLead;Fred;Testeur;5992.0;9
+ProjectLead;Mike;Développeur;4480;-5
+ProjectLead;Oliver;Chef de projet;7900.0;3
+ProjectLead;Tina;Manager;8140;0
+ProjectLead;Linda;Testeur;4480.0;2
+ProjectLead;Rachel;Designer;6540.0;13
+ProjectLead;Bob;Manager;11330.0;11
+ProjectLead;Steve;Chef de projet;9500.0;7
+ProjectLead;Jack;Chef de projet;6200;-6
+ProjectLead;Jack;Designer;6180.0;11
+ProjectLead;Charlie;Manager;10120.0;6
+ProjectLead;Oliver;Développeur;4900;-2
+ProjectLead;Nina;Analyste;7600.0;5
+ProjectLead;Steve;Designer;5340.0;5
+ProjectLead;Linda;Développeur;5110.0;1
+ProjectLead;Jack;Testeur;5768.0;11
+ProjectLead;Charlie;Chef de projet;8500.0;5
