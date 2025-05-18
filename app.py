@@ -4,12 +4,25 @@ import streamlit as st
 from modules.brief import *
 import pandas as pd
 
-st.session_state.file_name0 = "./data/employes-data.json"
-st.session_state.file_name1 = ""
 
-#if st.session_state.file_name1:
+# st.session_state.file_name0 = "./data/employes-data.json"
+# st.session_state.file_name1 = ""
+
+if "c" not in st.session_state:
+    st.session_state.c = 0  # ou une autre valeur par défaut appropriée
+
+
+if "file_name0" not in st.session_state:
+    st.session_state.file_name0 = "./data/employes-data.json"
+
+if "file_name1" not in st.session_state:
+    st.session_state.file_name1 = ""
+
+
+
+# if st.session_state.file_name1:
 #    st.write("name1")
-#if st.session_state.file_name0:
+# if st.session_state.file_name0:
 #    st.write("name0")
 
 def main():
